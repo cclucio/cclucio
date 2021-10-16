@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi friends 👋
+
+⚡ Pertenezco a MisionTic 2022 y actulmente me encuentro en el ciclo 3.
+
+
+![62K58PICb88i68HEwVnm5_PIC2018](https://user-images.githubusercontent.com/89102008/137571600-9abe4886-22ed-4734-951f-c7a2fddaf387.gif)
+
+
 
 <!--
 **cclucio/cclucio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
